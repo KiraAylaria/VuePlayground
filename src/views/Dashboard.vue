@@ -6,7 +6,7 @@
           <div class="container-fluid">
             <slot>
               <div class="row">
-                <div class="col-sm-6">
+                <div class="col-sm-12 col-xl-6">
                   <div class="form-group">
                     <label>Typ wählen</label>
                     <div class="form-group">
